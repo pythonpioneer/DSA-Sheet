@@ -8,9 +8,11 @@
 
 ### Array
 
-- [ ] [**Remove Duplicate from an Array**](https://www.geeksforgeeks.org/problems/remove-duplicates-in-small-prime-array/1?page=1&category=Prime%20Number&sortBy=difficulty) - `Array`, `Map`, `Set`, `Hash`
-
 ## Easy Problems
+
+### Array
+
+- [ ] [**Remove Duplicate from an Array**](https://www.geeksforgeeks.org/problems/remove-duplicates-in-small-prime-array/1?page=1&category=Prime%20Number&sortBy=difficulty) - `Array`, `Map`, `Set`, `Hash`
 
 ## Medium Problems
 
