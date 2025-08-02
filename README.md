@@ -1,7 +1,14 @@
 ## Basic Problems
 
+### Math
+
 - [ ] [**Sum Of Digits**](https://www.geeksforgeeks.org/problems/sum-of-digits-prime-non-prime1935/1?page=1&category=Prime%20Number&sortBy=difficulty) - `Prime Number`, `Count Digits`, **`Math`**
 - [ ] [**Three distinct factors**](https://www.geeksforgeeks.org/problems/three-distinct-factors5613/1?page=1&category=Prime%20Number&sortBy=difficulty) - `Prime Number`, `Divisors`, `Factors`, **`Math`**
+- [ ] [**Sum of Primes**](https://www.geeksforgeeks.org/problems/sum-of-primes0042/1?page=1&category=Prime%20Number&sortBy=difficulty) - `Prime Number`, `Count Digits`, **`Math`**
+
+### Array
+
+- [ ] [**Remove Duplicate from an Array**](https://www.geeksforgeeks.org/problems/remove-duplicates-in-small-prime-array/1?page=1&category=Prime%20Number&sortBy=difficulty) - `Array`, `Map`, `Set`, `Hash`
 
 ## Easy Problems
 
