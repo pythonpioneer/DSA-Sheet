@@ -8,7 +8,12 @@
 
 ### Array
 
+
 ## Easy Problems
+
+### Math
+
+- [ ] [**Semi Prime**](https://www.geeksforgeeks.org/problems/semi-prime4736/1?page=1&category=Prime%20Number&sortBy=difficulty) - `Prime Number`, `Math`
 
 ### Array
 
