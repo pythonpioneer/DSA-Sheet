@@ -29,3 +29,4 @@
 ### Array
 
 - [ ] [**Prime Pairs With Target Sum**](https://leetcode.com/problems/prime-pairs-with-target-sum/submissions/1721608512/) - `Array`, `Prime Number`, `Math`
+- [ ] [**Kth Prime Factors**](https://www.geeksforgeeks.org/problems/kth-prime-factor-of-a-number0132/1?page=2&category=Prime%20Number&sortBy=difficulty) - `Array`, `Prime Number`, `Math`
