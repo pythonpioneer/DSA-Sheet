@@ -25,3 +25,7 @@
 ### Math
 
 - [ ] [**Prime Palindrome**](https://leetcode.com/problems/prime-palindrome/submissions/1720723499/) - `Prime Number`, `Palindrome`, `Math`
+
+### Array
+
+- [ ] [**Prime Pairs With Target Sum**](https://leetcode.com/problems/prime-pairs-with-target-sum/submissions/1721608512/) - `Array`, `Prime Number`, `Math`
